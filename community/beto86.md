@@ -1,18 +1,17 @@
 <h1 align="center">Oi 👋, sou Roberto Rocha</h1>
 <h3 align="left">Analista de Dados</h3>
-<hr>
+
 Sou certificado em Python e formado em Ciências da Computação pela UTFPR. Gosto muito de análise de dados, usando SQL e ferramentas como Power BI para criar indicadores e visualizações que ajudam nas decisões estratégicas. Atualmente, trabalho como Analista de Dados em uma empresa focada no agronegócio.
 Além disso, sou apaixonado por Desenvolvimento Web e Linux. Sempre que possível, desenvolvo aplicações em Python e Django, com HTML, Bootstrap e outras ferramentas e linguagens. Estou sempre buscando novos desafios e aprendizados contínuos, como os desafios de laboratório da DIO.
 
-### GitHub Stats
-<hr>
+## GitHub Stats
 <div>
    <a href="https://github.com/beto86">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beto86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto86&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-### Habilidades
-<hr>
+
+## Habilidades
 <div style="display: inline_block"><br>
   <img align="center" alt="postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />        
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -37,10 +36,7 @@ Além disso, sou apaixonado por Desenvolvimento Web e Linux. Sempre que possíve
 <br>
  
 ## Conecte-se comigo!
-<hr>
-<div> 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertorochash86/)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:beto.brava86@gmail.com)
-</div>
 
 
